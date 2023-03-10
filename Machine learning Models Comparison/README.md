@@ -21,8 +21,8 @@ Write two machine learning models and pick the best model and build confidence t
 
 [2.2 Machine_Learning_Model_02](https://github.com/ChengHeo/Python_Project/blob/main/Machine%20learning%20Models%20Comparison/2.2%20Model_02_KNN.py) (K-Nearest Neighbor)
 
-3.0 Result & Discussion
+[3.0 Result & Discussion](https://github.com/ChengHeo/Python_Project/blob/main/Machine%20learning%20Models%20Comparison/3.0%20Result%20%26%20Discussion)
 
-4.0 Best models
+[4.0 Best models](https://github.com/ChengHeo/Python_Project/blob/main/Machine%20learning%20Models%20Comparison/4.0%20Best_Model)
 
-5.0 Conclusion
+[5.0 Conclusion](https://github.com/ChengHeo/Python_Project/blob/main/Machine%20learning%20Models%20Comparison/5.0%20Conclusion)
