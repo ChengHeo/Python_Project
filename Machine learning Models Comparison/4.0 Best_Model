@@ -1,0 +1,9 @@
+From your result and discussion pick the best model.
+For example:
+Based on the discussion above, it can be synthesised that the KNN model is the 
+Best model for this experiment to detect heart disease. This is because it perform better 
+on all performance metrics proposed in this experiment. Firstly, it has high accuracy score 
+which is a valid measurement due to the fairly balanced dataset.
+
+Finally, the high performance of recall and precision for the KNN model is followed by the high f1-score for 
+the model making it the best model to predict heart disease.
