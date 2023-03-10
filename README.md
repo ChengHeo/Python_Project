@@ -1,7 +1,7 @@
 # Python_Project
 Some simple project for learning purpose
 
-<img align="centre" width="400" height="200" src="https://th.bing.com/th/id/OIP.njnkKsXuwvc5cYpRSH26ywHaFd?pid=ImgDet&rs=1">
+<img align="centre" width="300" height="150" src="https://th.bing.com/th/id/OIP.njnkKsXuwvc5cYpRSH26ywHaFd?pid=ImgDet&rs=1">
 
 ### 1.0 [The Random Password Generator](https://github.com/ChengHeo/Python_Project/tree/main/The%20Random%20Password%20Generator)
 #### Scenario
