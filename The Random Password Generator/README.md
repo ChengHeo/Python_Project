@@ -17,5 +17,5 @@ Step as below:
 #### Problem
 
 There are two version for the coding
-1. In the first ### [version_01](https://github.com/ChengHeo/Python_Project/blob/main/The%20Random%20Password%20Generator/4.0%20Random_Password_v01.py), we using the if-else statement. But in the testing we found the password is work within the range by only once, and the second times is not working. 
-2. So we have the second ### [version_02](https://github.com/ChengHeo/Python_Project/blob/main/The%20Random%20Password%20Generator/4.1%20Random_Password_v02.py) , then we use the while statement, then after the testing we found the coding is working although many times.
+1. In the first [version_01](https://github.com/ChengHeo/Python_Project/blob/main/The%20Random%20Password%20Generator/4.0%20Random_Password_v01.py), we using the if-else statement. But in the testing we found the password is work within the range by only once, and the second times is not working. 
+2. So we have the second [version_02](https://github.com/ChengHeo/Python_Project/blob/main/The%20Random%20Password%20Generator/4.1%20Random_Password_v02.py) , then we use the while statement, then after the testing we found the coding is working although many times.
