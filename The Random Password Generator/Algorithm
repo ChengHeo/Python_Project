@@ -1,6 +1,0 @@
-This project is meant to generate unique passwords as requested by users. 
-The passwords will consist of alphanumeric characters to provide utmost security and should not be generated more than once. 
-•	The project will greet the user and ask for an input of how many characters the user desired for the password. 
-•	Then, the project will check whether the input is within 8-16 characters. 
-•	If the condition is met, the program, will proceed to generate a string of characters containing the same number of characters as requested by the user. 
-•	If the input exceeds 16 characters or less than 8 characters, the program will reiterate and ask the user to re-input the number. 
