@@ -7,7 +7,7 @@ Some simple project for learning purpose
 #### Scenario
 The password generator is a Random Password generating program that generates a password mix of upper and lowercase letters, as well as numbers and symbols strong enough to provide great security.
 
-To built a simple python coding project
+To built this python project
 Step as below:
 1. Algorithm
 2. Flowchart
