@@ -7,6 +7,6 @@ Some simple project for learning purpose
 #### Scenario
 The password generator is a Random Password generating program that generates a password mix of upper and lowercase letters, as well as numbers and symbols strong enough to provide great security.
 
-### 2.0 Machine learning models comparison
+### 2.0 Machine learning Models comparison
 #### Scenario
 Write a program (using Python) to create machine learning models by compare two different Machine Learning Algorithms to perform better method for the experiments from the data set given. 
