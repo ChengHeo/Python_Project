@@ -14,11 +14,17 @@ Write two machine learning models and pick the best model and build confidence t
 5. The final algorithm (champion model) you prefer (choose ONE(1) out of two algorithms). Justify your preference.
 
 ### Index:
+
 1.0 Introduction for both Machine Learning Algorithms.
+
 2.1 Machine_Learning_Model_01   （Decision Tree)
+
 2.2 Machine_Learning_Model_02    (K-Nearest Neighbor)
+
 3.0 Result & Discussion
+
 4.0 Best models
+
 5.0 Conclusion
 
 
