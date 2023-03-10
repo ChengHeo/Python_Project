@@ -1,0 +1,16 @@
+PSEUDOCODE
+
+1.	DISPLAY ("Welcome!")  
+2.	Set counter to 0 
+3.	WHILE counter equal to 0: 
+4.	PROMPT for password length 
+5.	GET password length 
+6.	IF length greater than or equal to 8 AND length less than or equal to 16 
+7.	Password generated = combination of random string equal to length inputted 
+8.	DISPLAY password 
+9.	counter equal to 1 
+10.	End WHILE 
+11.	ELSE: 
+12.	DISPLAY ("The length must be between 8 to 16 digits.") 
+13.	counter = 0 
+14.	Repeat step number 5 
