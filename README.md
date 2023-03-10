@@ -6,11 +6,3 @@ Some simple project for learning purpose
 ### 1.0 [The Random Password Generator](https://github.com/ChengHeo/Python_Project/tree/main/The%20Random%20Password%20Generator)
 #### Scenario
 The password generator is a Random Password generating program that generates a password mix of upper and lowercase letters, as well as numbers and symbols strong enough to provide great security.
-
-To built this python project
-Step as below:
-1. Algorithm
-2. Flowchart
-3. Pseudocode
-4. Coding
-5. Conclusion
