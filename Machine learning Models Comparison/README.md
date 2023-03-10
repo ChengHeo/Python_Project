@@ -6,10 +6,19 @@
 Write a program (using Python) to create machine learning models to perform the experiments from the data set given. 
 Write two machine learning models and pick the best model and build confidence that the accuracy is reliable.
 
-The project flow:
+### The project flow:
 1. Introduction (Brief discussions on the TWO(2) Machine Learning Algorithms)
 2. Justify your choices.
 3. Compare and discuss the division of the data set (eg: train and test, number of rows, etc.).
 4. Compare and analyze their performance (e.g. Accuracy).
 5. The final algorithm (champion model) you prefer (choose ONE(1) out of two algorithms). Justify your preference.
+
+### Index:
+1.0 Introduction for both Machine Learning Algorithms.
+2.1 Machine_Learning_Model_01   （Decision Tree)
+2.2 Machine_Learning_Model_02    (K-Nearest Neighbor)
+3.0 Result & Discussion
+4.0 Best models
+5.0 Conclusion
+
 
