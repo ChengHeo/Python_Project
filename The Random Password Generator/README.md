@@ -12,6 +12,7 @@ Step as below:
 2. [Flowchart](https://github.com/ChengHeo/Python_Project/blob/main/The%20Random%20Password%20Generator/2.0%20Flowchart.pdf)
 3. [Pseudocode](https://github.com/ChengHeo/Python_Project/blob/main/The%20Random%20Password%20Generator/3.0%20Pseudocode)
 4. [Coding](https://github.com/ChengHeo/Python_Project/blob/main/The%20Random%20Password%20Generator/4.1%20Random_Password_v02.py)
+5. [Conclusion](https://github.com/ChengHeo/Python_Project/new/main/The%20Random%20Password%20Generator)
 
 #### Problem
 
