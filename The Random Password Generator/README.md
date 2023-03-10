@@ -1,10 +1,8 @@
 <img align="centre" width="300" height="150" src="https://1.bp.blogspot.com/-tx7nfp4dVuE/YQAsplWEkxI/AAAAAAAABGE/Jup3qkIiDfg1IMZHxCZpAutoAqPLj6ZOwCLcBGAsYHQ/w1600/Screenshot%2B%2528190%2529%2B%25286%2529.jpg">
-#### Scenario
+### Scenario
 The password generator is a Random Password generating program that generates a password mix of upper and lowercase letters, as well as numbers and symbols strong enough to provide great security.
-#### 
-We need to bulid a python to create a generator to produce a random password
 
-To built this python project
+We need to bulid a python to create a generator to produce a random password
 
 Step as below:
 1. Algorithm
