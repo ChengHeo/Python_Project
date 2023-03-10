@@ -26,5 +26,3 @@ Write two machine learning models and pick the best model and build confidence t
 4.0 Best models
 
 5.0 Conclusion
-
-
