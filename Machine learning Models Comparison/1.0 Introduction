@@ -1,0 +1,24 @@
+At here you can explain both model you choose in this project .
+For example the model that i choose in this project is Decision Tree and the K-Nearest Neighbor.
+Below just as example
+Decision Tree: 
+is a supervised learning technique that can be used for both 
+classification and regression problems. But it is mostly used in solving classification use 
+cases (Jijo & Abdulazeez, 2021). It is called a decision tree because it uses a tree-shaped 
+diagram or a branching method to illustrate an action or decision and also its likely outcomes. 
+The classification process begins at the tree’s root node and recursively continues until it 
+reaches the leaf node with class labels. A split condition is applied at each node to determine 
+whether the input value should proceed to the left or right sub-tree until it reaches the leaf 
+nodes, where internal nodes represent dataset features, branches represent decision rules and 
+the leaf node represents the result
+
+KNN:
+KNN is one of the simplest machine learning methods that are used for 
+classification (Uddin, Khan, Hossain, & Moni, 2019). It is typically used to classify data 
+models based on how their neighbors are classified, which means the KNN algorithm will 
+store all the data and classifies a new data point based on the similarity. Thus, every time 
+there is new data, it will be classified into suitable categories by using the KNN algorithm. 
+This algorithm is also known as a lazy learner algorithm because it does not learn using 
+training data prior to which the data is only stored and there is no calculation or action when 
+training data is received. It will only start the learning process time for data classification and 
+prediction.
