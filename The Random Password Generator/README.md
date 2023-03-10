@@ -4,7 +4,7 @@
 
 The password generator is a Random Password generating program that generates a password mix of upper and lowercase letters, as well as numbers and symbols strong enough to provide great security.
 
-#### We need to bulid a python to create a generator to produce a random password
+#### We need to bulid a generator to produce a random password with the python
 
 Step as below:
 1. Algorithm
