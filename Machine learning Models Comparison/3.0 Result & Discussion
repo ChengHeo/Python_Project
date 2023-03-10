@@ -1,6 +1,13 @@
 In this part you can compare their output from both models.
 For example:
-The '*accuracy*' of KNN, which is 89% is higher than the decision tree which is at 80%. This 
+The accuracy of KNN, which is 89% is higher than the decision tree which is at 80%. This 
 signifies that KNN is able to predict whether a person has heart disease or not better than the 
 decision tree model. As shown on the confusion matrix, out of the 61 test dataset, 
 KNN makes 54 correct diagnosis while the decision tree only makes 49 correct diagnosis.
+
+At 91%, the precision of KNN model is higher than the decision tree which at 82%. 
+This means that when KNN predicts that a person has heart disease, it is correct 91% of 
+the time while decision tree is only correct for 82% of the time.
+Next, KNN reported recall of 88% which is higher than the decision tree model that 
+reported 82%. The value reveals that the KNN model is able to correctly identify 88% of 
+heart disease cases.
