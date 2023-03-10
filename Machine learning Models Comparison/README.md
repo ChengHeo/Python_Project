@@ -15,7 +15,7 @@ Write two machine learning models and pick the best model and build confidence t
 
 ### Index:
 
-1.0 Introduction for both Machine Learning Algorithms.
+[1.0 Introduction for both Machine Learning Algorithms](https://github.com/ChengHeo/Python_Project/blob/main/Machine%20learning%20Models%20Comparison/1.0%20Introduction)
 
 2.1 Machine_Learning_Model_01   （Decision Tree)
 
