@@ -9,4 +9,6 @@ The password generator is a Random Password generating program that generates a 
 
 ### 2.0 Machine learning Models comparison
 #### Scenario
-Write a program (using Python) to create machine learning models by compare two different Machine Learning Algorithms to perform better method for the experiments from the data set given. 
+Write a program (using Python) to create machine learning models to perform the experiments from the data set given. 
+Write two machine learning models and pick the best model and build confidence that the accuracy is reliable.
+
